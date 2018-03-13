@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/09/14 21:10:51.000.379,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/01 11:06:22.000.002,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/03 23:49:41.000.804,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/12 19:43:39.619,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/12 20:07:38.458,C:\Eventos\CodeRage Brasil III\Exemplo Amazon\Unit1.pas=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/12 20:07:38.458,C:\Eventos\CodeRage Brasil III\Exemplo Amazon\Unit1.dfm=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/03/12 20:07:49.618,C:\Eventos\CodeRage Brasil III\Exemplo Amazon\AmazonS3.dproj=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMac iOSSimulator="iPhone5"/>
+		<NoProfile iOSSimulator="iPhone5" Android="0023109677"/>
+		<PmacOS iOSSimulator="_iossimulator_EE49F575-19A6-4C5C-9F8F-D11543B76CF7"/>
+	</ActiveMobileDevice>
+</BorlandProject>
